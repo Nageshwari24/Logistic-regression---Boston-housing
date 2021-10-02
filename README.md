@@ -1,1 +1,1 @@
-# Logistic-regression---Boston-housing
+# LogisticRegression-BostonHousing
